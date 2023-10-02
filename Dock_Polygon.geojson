@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Dock_Polygon",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "NewDock": "New_Dock" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.991502455439772, 42.354015197207005 ], [ -70.990772731361574, 42.354582405459709 ], [ -70.9895299125252, 42.353649465058801 ], [ -70.990259350832247, 42.353073178930892 ], [ -70.991502455439772, 42.354015197207005 ] ] ] ] } }
+]
+}
